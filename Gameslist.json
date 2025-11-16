@@ -10,8 +10,18 @@
     "appid": 756800,
     "name": "Contraband Police",
     "manifests": [
-      "manifests/730.manifest",
-      "manifests/730_additional.json"
+      "manifests/Contraband Police/756800.lua",
+      "manifests/Contraband Police/756801_1530243543208287765.manifest",
+      "manifests/Contraband Police/756801_5371529550732960251.manifest"
+    ]
+  },
+  {
+    "appid": 756800,
+    "name": "Contraband Police",
+    "manifests": [
+      "manifests/Contraband Police/756800.lua",
+      "manifests/Contraband Police/756801_1530243543208287765.manifest",
+      "manifests/Contraband Police/756801_5371529550732960251.manifest"
     ]
   }
 ]
