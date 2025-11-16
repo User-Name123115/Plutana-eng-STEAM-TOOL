@@ -105,10 +105,129 @@
     ]
   },
   {
-    "appid": 236430,
-    "name": "DARK SOULS™ II",
+    "appid": 521890,
+    "name": "Hello Neighbor",
     "manifests": [
-      "https://base44.app/api/apps/691a1a311ee3572b831e4c62/files/public/691a1a311ee3572b831e4c62/830072918_236430.zip"
+      "https://base44.app/api/apps/691a1a311ee3572b831e4c62/files/public/691a1a311ee3572b831e4c62/b6abc96bb_HelloNeighbor.zip"
+    ]
+  },
+  {
+    "appid": 1321680,
+    "name": "Hello Neighbor 2",
+    "manifests": [
+      "https://base44.app/api/apps/691a1a311ee3572b831e4c62/files/public/691a1a311ee3572b831e4c62/963cb5d86_HelloNeighbor2.zip"
+    ]
+  },
+  {
+    "appid": 12210,
+    "name": "Grand Theft Auto IV The Complete Edition",
+    "manifests": [
+      "https://base44.app/api/apps/691a1a311ee3572b831e4c62/files/public/691a1a311ee3572b831e4c62/e9b4c223b_GrandTheftAutoIVTheCompleteEdition.zip"
+    ]
+  },
+  {
+    "appid": 1265920,
+    "name": "Life is Strange Remastered",
+    "manifests": [
+      "https://base44.app/api/apps/691a1a311ee3572b831e4c62/files/public/691a1a311ee3572b831e4c62/4d0748199_LifeisStrangeRemastered.zip"
+    ]
+  },
+  {
+    "appid": 403120,
+    "name": "THE GAME OF LIFE",
+    "manifests": [
+      "https://base44.app/api/apps/691a1a311ee3572b831e4c62/files/public/691a1a311ee3572b831e4c62/82cab0321_THEGAMEOFLIFE.zip"
+    ]
+  },
+  {
+    "appid": 1455630,
+    "name": "THE GAME OF LIFE 2",
+    "manifests": [
+      "https://base44.app/api/apps/691a1a311ee3572b831e4c62/files/public/691a1a311ee3572b831e4c62/3b7cc5e54_THEGAMEOFLIFE2.zip"
+    ]
+  },
+  {
+    "appid": 613100,
+    "name": "House Flipper",
+    "manifests": [
+      "https://base44.app/api/apps/691a1a311ee3572b831e4c62/files/public/691a1a311ee3572b831e4c62/538f188b5_HouseFlipper.zip"
+    ]
+  },
+  {
+    "appid": 1190970,
+    "name": "House Flipper 2",
+    "manifests": [
+      "https://base44.app/api/apps/691a1a311ee3572b831e4c62/files/public/691a1a311ee3572b831e4c62/327421ac9_HouseFlipper2.zip"
+    ]
+  },
+  {
+    "appid": 2622380,
+    "name": "ELDEN RING NIGHTREIGN",
+    "manifests": [
+      "https://base44.app/api/apps/691a1a311ee3572b831e4c62/files/public/691a1a311ee3572b831e4c62/dd3056c85_ELDENRINGNIGHTREIGN.zip"
+    ]
+  },
+  {
+    "appid": 319510,
+    "name": "Five Nights at Freddy's",
+    "manifests": [
+      "https://base44.app/api/apps/691a1a311ee3572b831e4c62/files/public/691a1a311ee3572b831e4c62/24fb54d8e_FiveNightsatFreddys.zip"
+    ]
+  },
+  {
+    "appid": 332800,
+    "name": "Five Nights at Freddy's 2",
+    "manifests": [
+      "https://base44.app/api/apps/691a1a311ee3572b831e4c62/files/public/691a1a311ee3572b831e4c62/d3b1b936f_FiveNightsatFreddys2.zip"
+    ]
+  },
+  {
+    "appid": 354140,
+    "name": "Five Nights at Freddy's 3",
+    "manifests": [
+      "https://base44.app/api/apps/691a1a311ee3572b831e4c62/files/public/691a1a311ee3572b831e4c62/54382587d_FiveNightsatFreddys3.zip"
+    ]
+  },
+  {
+    "appid": 388090,
+    "name": "Five Nights at Freddy's 4",
+    "manifests": [
+      "https://base44.app/api/apps/691a1a311ee3572b831e4c62/files/public/691a1a311ee3572b831e4c62/4173e8bda_FiveNightsatFreddys4.zip"
+    ]
+  },
+  {
+    "appid": 377160,
+    "name": "Fallout 4",
+    "manifests": [
+      "https://base44.app/api/apps/691a1a311ee3572b831e4c62/files/public/691a1a311ee3572b831e4c62/efd152648_Fallout4.zip"
+    ]
+  },
+  {
+    "appid": 3070070,
+    "name": "TCG Card Shop Simulator",
+    "manifests": [
+      "https://base44.app/api/apps/691a1a311ee3572b831e4c62/files/public/691a1a311ee3572b831e4c62/a5806f4b6_TCGCardShopSimulator.zip"
+    ]
+  },
+  {
+    "appid": 448280,
+    "name": "Job Simulator",
+    "manifests": [
+      "https://base44.app/api/apps/691a1a311ee3572b831e4c62/files/public/691a1a311ee3572b831e4c62/0afaa2c16_JobSimulator.zip"
+    ]
+  },
+  {
+    "appid": 641320,
+    "name": "Cooking Simulator",
+    "manifests": [
+      "https://base44.app/api/apps/691a1a311ee3572b831e4c62/files/public/691a1a311ee3572b831e4c62/dbadec7cc_CookingSimulator.zip"
+    ]
+  },
+  {
+    "appid": 1040200,
+    "name": "Crime Scene Cleaner",
+    "manifests": [
+      "https://base44.app/api/apps/691a1a311ee3572b831e4c62/files/public/691a1a311ee3572b831e4c62/678aed532_CrimeSceneCleaner.zip"
     ]
   }
 ]
