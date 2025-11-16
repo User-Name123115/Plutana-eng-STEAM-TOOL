@@ -1,26 +1,58 @@
 [
   {
     "appid": 3314790,
-    "name": "Clover Pit",
+    "name": "CloverPit",
     "manifests": [
-      "https://base44.app/api/apps/6904f500253139fdada16b69/files/public/6904f500253139fdada16b69/899fba76c_3314790.lua"
+      "https://base44.app/api/apps/691a1a311ee3572b831e4c62/files/public/691a1a311ee3572b831e4c62/84e5be4e6_3314790.zip"
     ]
   },
   {
     "appid": 756800,
     "name": "Contraband Police",
     "manifests": [
-      "https://base44.app/api/apps/6904f500253139fdada16b69/files/public/6904f500253139fdada16b69/d570f8a7d_756800.lua",
-      "https://base44.app/api/apps/6904f500253139fdada16b69/files/public/6904f500253139fdada16b69/1104f0593_756801_5371529550732960251.manifest",
-      "https://base44.app/api/apps/6904f500253139fdada16b69/files/public/6904f500253139fdada16b69/f82144c07_756801_1530243543208287765.manifest"
+      "https://base44.app/api/apps/691a1a311ee3572b831e4c62/files/public/691a1a311ee3572b831e4c62/a628ae969_756800.zip"
     ]
   },
   {
     "appid": 1167450,
-    "name": "a",
+    "name": "DAEMON X MACHINA",
     "manifests": [
-      "https://base44.app/api/apps/6904f500253139fdada16b69/files/public/6904f500253139fdada16b69/c7e9094a4_1167450.lua",
-      "https://base44.app/api/apps/6904f500253139fdada16b69/files/public/6904f500253139fdada16b69/ffba8d983_1167451_5557761116931964144.manifest"
+      "https://base44.app/api/apps/691a1a311ee3572b831e4c62/files/public/691a1a311ee3572b831e4c62/7d05633c8_1167450.zip"
+    ]
+  },
+  {
+    "appid": 377160,
+    "name": "Fallout 4",
+    "manifests": [
+      "https://base44.app/api/apps/691a1a311ee3572b831e4c62/files/public/691a1a311ee3572b831e4c62/7a66add34_377160.zip"
+    ]
+  },
+  {
+    "appid": 1151340,
+    "name": "Fallout 76",
+    "manifests": [
+      "https://base44.app/api/apps/691a1a311ee3572b831e4c62/files/public/691a1a311ee3572b831e4c62/699987466_1151340.zip"
+    ]
+  },
+  {
+    "appid": 374320,
+    "name": "DARK SOULS™ III",
+    "manifests": [
+      "https://base44.app/api/apps/691a1a311ee3572b831e4c62/files/public/691a1a311ee3572b831e4c62/443d4481b_374320.zip"
+    ]
+  },
+  {
+    "appid": 570940,
+    "name": "DARK SOULS™: REMASTERED",
+    "manifests": [
+      "https://base44.app/api/apps/691a1a311ee3572b831e4c62/files/public/691a1a311ee3572b831e4c62/792598230_570940.zip"
+    ]
+  },
+  {
+    "appid": 236430,
+    "name": "DARK SOULS™ II",
+    "manifests": [
+      "https://base44.app/api/apps/691a1a311ee3572b831e4c62/files/public/691a1a311ee3572b831e4c62/830072918_236430.zip"
     ]
   }
 ]
