@@ -7,8 +7,8 @@
     ]
   },
   {
-    "appid": 730,
-    "name": "Counter-Strike: Global Offensive",
+    "appid": 756800,
+    "name": "Contraband Police",
     "manifests": [
       "manifests/730.manifest",
       "manifests/730_additional.json"
