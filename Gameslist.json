@@ -3,8 +3,7 @@
     "appid": 3314790,
     "name": "CloverPit",
     "manifests": [
-      "manifests/570.manifest",
-      "manifests/570_additional.json"
+      "manifests/CloverPit/3314790.lua"
     ]
   },
   {
