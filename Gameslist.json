@@ -397,5 +397,110 @@
     "manifests": [
       "https://base44.app/api/apps/691a1a311ee3572b831e4c62/files/public/691a1a311ee3572b831e4c62/c9580d851_IngloriousWaifuVSNaziZombies.zip"
     ]
+  },
+  {
+    "appid": 238320,
+    "name": "Outlast",
+    "manifests": [
+      "https://base44.app/api/apps/691a1a311ee3572b831e4c62/files/public/691a1a311ee3572b831e4c62/52fe60890_Outlast.zip"
+    ]
+  },
+  {
+    "appid": 427920,
+    "name": "FNaF World",
+    "manifests": [
+      "https://base44.app/api/apps/691a1a311ee3572b831e4c62/files/public/691a1a311ee3572b831e4c62/d4f7a664a_FNaFWorld.zip"
+    ]
+  },
+  {
+    "appid": 2287520,
+    "name": "Five Nights at Freddy's Help Wanted 2",
+    "manifests": [
+      "https://base44.app/api/apps/691a1a311ee3572b831e4c62/files/public/691a1a311ee3572b831e4c62/6be95e513_FiveNightsatFreddysHelpWanted2.zip"
+    ]
+  },
+  {
+    "appid": 732690,
+    "name": "FIVE NIGHTS AT FREDDY'S HELP WANTED",
+    "manifests": [
+      "https://base44.app/api/apps/691a1a311ee3572b831e4c62/files/public/691a1a311ee3572b831e4c62/d5cb2f6dd_FIVENIGHTSATFREDDYSHELPWANTED.zip"
+    ]
+  },
+  {
+    "appid": 2638370,
+    "name": "Five Nights at Freddy's Into the Pit",
+    "manifests": [
+      "https://base44.app/api/apps/691a1a311ee3572b831e4c62/files/public/691a1a311ee3572b831e4c62/c7d83b6b1_FiveNightsatFreddysIntothePit.zip"
+    ]
+  },
+  {
+    "appid": 506610,
+    "name": "Five Nights at Freddy's Sister Location",
+    "manifests": [
+      "https://base44.app/api/apps/691a1a311ee3572b831e4c62/files/public/691a1a311ee3572b831e4c62/cfdccbb8e_FiveNightsatFreddysSisterLocation.zip"
+    ]
+  },
+  {
+    "appid": 2215390,
+    "name": "Five Nights at Freddy's Secret of the Mimic",
+    "manifests": [
+      "https://base44.app/api/apps/691a1a311ee3572b831e4c62/files/public/691a1a311ee3572b831e4c62/d83468519_FiveNightsatFreddysSecretoftheMimic.zip"
+    ]
+  },
+  {
+    "appid": 747660,
+    "name": "Five Nights at Freddy's Security Breach",
+    "manifests": [
+      "https://base44.app/api/apps/691a1a311ee3572b831e4c62/files/public/691a1a311ee3572b831e4c62/99f682dbc_FiveNightsatFreddysSecurityBreach.zip"
+    ]
+  },
+  {
+    "appid": 850190,
+    "name": "Goat Simulator 3",
+    "manifests": [
+      "https://base44.app/api/apps/691a1a311ee3572b831e4c62/files/public/691a1a311ee3572b831e4c62/6de7e7087_GoatSimulator3.zip"
+    ]
+  },
+  {
+    "appid": 223470,
+    "name": "POSTAL 2",
+    "manifests": [
+      "https://base44.app/api/apps/691a1a311ee3572b831e4c62/files/public/691a1a311ee3572b831e4c62/fe0a4e530_POSTAL2.zip"
+    ]
+  },
+  {
+    "appid": 1240210,
+    "name": "There Is No Game Wrong Dimension",
+    "manifests": [
+      "https://base44.app/api/apps/691a1a311ee3572b831e4c62/files/public/691a1a311ee3572b831e4c62/44eef1aa3_ThereIsNoGameWrongDimension.zip"
+    ]
+  },
+  {
+    "appid": 1092790,
+    "name": "Inscryption",
+    "manifests": [
+      "https://base44.app/api/apps/691a1a311ee3572b831e4c62/files/public/691a1a311ee3572b831e4c62/034ceb1cf_Inscryption.zip"
+    ]
+  },
+  {
+    "appid": 239030,
+    "name": "Papers, Please",
+    "manifests": [
+      "https://base44.app/api/apps/691a1a311ee3572b831e4c62/files/public/691a1a311ee3572b831e4c62/73fb75e94_PapersPlease.zip"
+    ]
+  },
+  {
+    "appid": 213670,
+    "name": "South Park™ The Stick of Truth™",
+    "manifests": [
+      "https://base44.app/api/apps/691a1a311ee3572b831e4c62/files/public/691a1a311ee3572b831e4c62/25b4c648d_SouthParkTheStickofTruth.zip"
+    ]
+  },
+  {
+    "appid": 704850,
+    "name": "Thief Simulator",
+    "manifests": [
+      "https://base44.app/api/apps/691a1a311ee3572b831e4c62/files/public/691a1a311ee3572b831e4c62/5c9760d7a_ThiefSimulator.zip"
+    ]
   }
 ]
