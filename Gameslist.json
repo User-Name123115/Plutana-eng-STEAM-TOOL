@@ -336,31 +336,66 @@
     ]
   },
   {
-    "appid": 1040200,
-    "name": "Crime Scene Cleaner",
+    "appid": 2443360,
+    "name": "Zortch",
     "manifests": [
-      "https://base44.app/api/apps/691a1a311ee3572b831e4c62/files/public/691a1a311ee3572b831e4c62/678aed532_CrimeSceneCleaner.zip"
+      "https://base44.app/api/apps/691a1a311ee3572b831e4c62/files/public/691a1a311ee3572b831e4c62/002571fcf_Zortch.zip"
     ]
   },
   {
-    "appid": 1040200,
-    "name": "Crime Scene Cleaner",
+    "appid": 4000,
+    "name": "Garry's Mod",
     "manifests": [
-      "https://base44.app/api/apps/691a1a311ee3572b831e4c62/files/public/691a1a311ee3572b831e4c62/678aed532_CrimeSceneCleaner.zip"
+      "https://base44.app/api/apps/691a1a311ee3572b831e4c62/files/public/691a1a311ee3572b831e4c62/4c11591f1_GarrysMod.zip"
     ]
   },
   {
-    "appid": 1040200,
-    "name": "Crime Scene Cleaner",
+    "appid": 223710,
+    "name": "Cry of Fear",
     "manifests": [
-      "https://base44.app/api/apps/691a1a311ee3572b831e4c62/files/public/691a1a311ee3572b831e4c62/678aed532_CrimeSceneCleaner.zip"
+      "https://base44.app/api/apps/691a1a311ee3572b831e4c62/files/public/691a1a311ee3572b831e4c62/b4f0af850_CryofFear.zip"
     ]
   },
   {
-    "appid": 1040200,
-    "name": "Crime Scene Cleaner",
+    "appid": 805590,
+    "name": "ARMORED HEAD",
     "manifests": [
-      "https://base44.app/api/apps/691a1a311ee3572b831e4c62/files/public/691a1a311ee3572b831e4c62/678aed532_CrimeSceneCleaner.zip"
+      "https://base44.app/api/apps/691a1a311ee3572b831e4c62/files/public/691a1a311ee3572b831e4c62/edeb21ee6_ARMOREDHEAD.zip"
+    ]
+  },
+  {
+    "appid": 50,
+    "name": "Half-Life Opposing Force",
+    "manifests": [
+      "https://base44.app/api/apps/691a1a311ee3572b831e4c62/files/public/691a1a311ee3572b831e4c62/6c586ddcb_Half-LifeOpposingForce.zip"
+    ]
+  },
+  {
+    "appid": 1699480,
+    "name": "KLETKA",
+    "manifests": [
+      "https://base44.app/api/apps/691a1a311ee3572b831e4c62/files/public/691a1a311ee3572b831e4c62/eaf25916b_KLETKA.zip"
+    ]
+  },
+  {
+    "appid": 570,
+    "name": "Dota 2",
+    "manifests": [
+      "https://base44.app/api/apps/691a1a311ee3572b831e4c62/files/public/691a1a311ee3572b831e4c62/ae1a68876_Dota2.zip"
+    ]
+  },
+  {
+    "appid": 252490,
+    "name": "Rust",
+    "manifests": [
+      "https://base44.app/api/apps/691a1a311ee3572b831e4c62/files/public/691a1a311ee3572b831e4c62/17c253c13_Rust.zip"
+    ]
+  },
+  {
+    "appid": 1554700,
+    "name": "Inglorious Waifu VS Nazi Zombies",
+    "manifests": [
+      "https://base44.app/api/apps/691a1a311ee3572b831e4c62/files/public/691a1a311ee3572b831e4c62/c9580d851_IngloriousWaifuVSNaziZombies.zip"
     ]
   }
 ]
