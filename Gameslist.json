@@ -3,24 +3,24 @@
     "appid": 3314790,
     "name": "Clover Pit",
     "manifests": [
-      "https://raw.githubusercontent.com/User-Name123115/Plutana-eng-STEAM-TOOL/refs/heads/main/manifests/CloverPit/3314790.lua"
+      "https://base44.app/api/apps/6904f500253139fdada16b69/files/public/6904f500253139fdada16b69/899fba76c_3314790.lua"
     ]
   },
   {
     "appid": 756800,
     "name": "Contraband Police",
     "manifests": [
-      "https://raw.githubusercontent.com/User-Name123115/Plutana-eng-STEAM-TOOL/refs/heads/main/manifests/Contraband Police/756800.lua",
-      "https://github.com/User-Name123115/Plutana-eng-STEAM-TOOL/raw/refs/heads/main/manifests/Contraband Police/756801_1530243543208287765.manifest",
-      "https://github.com/User-Name123115/Plutana-eng-STEAM-TOOL/raw/refs/heads/main/manifests/Contraband Police/756801_5371529550732960251.manifest"
+      "https://base44.app/api/apps/6904f500253139fdada16b69/files/public/6904f500253139fdada16b69/d570f8a7d_756800.lua",
+      "https://base44.app/api/apps/6904f500253139fdada16b69/files/public/6904f500253139fdada16b69/1104f0593_756801_5371529550732960251.manifest",
+      "https://base44.app/api/apps/6904f500253139fdada16b69/files/public/6904f500253139fdada16b69/f82144c07_756801_1530243543208287765.manifest"
     ]
   },
   {
     "appid": 1167450,
     "name": "DAEMON X MACHINA",
     "manifests": [
-      "https://raw.githubusercontent.com/User-Name123115/Plutana-eng-STEAM-TOOL/refs/heads/main/manifests/DAEMON_X_MACHINA/1167450.lua",
-      "https://github.com/User-Name123115/Plutana-eng-STEAM-TOOL/raw/refs/heads/main/manifests/DAEMON_X_MACHINA/1167451_5557761116931964144.manifest"
+      "https://base44.app/api/apps/6904f500253139fdada16b69/files/public/6904f500253139fdada16b69/c7e9094a4_1167450.lua",
+      "https://base44.app/api/apps/6904f500253139fdada16b69/files/public/6904f500253139fdada16b69/ffba8d983_1167451_5557761116931964144.manifest"
     ]
   }
 ]
