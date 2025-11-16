@@ -54,5 +54,61 @@
     "manifests": [
       "https://base44.app/api/apps/691a1a311ee3572b831e4c62/files/public/691a1a311ee3572b831e4c62/830072918_236430.zip"
     ]
+  },
+  {
+    "appid": 2383760,
+    "name": "Monopoly Madness",
+    "manifests": [
+      "https://base44.app/api/apps/691a1a311ee3572b831e4c62/files/public/691a1a311ee3572b831e4c62/e2762af4a_MonopolyMadness.zip"
+    ]
+  },
+  {
+    "appid": 562810,
+    "name": "Monopoly Plus",
+    "manifests": [
+      "https://base44.app/api/apps/691a1a311ee3572b831e4c62/files/public/691a1a311ee3572b831e4c62/87479b08d_MonopolyPlus.zip"
+    ]
+  },
+  {
+    "appid": 6880,
+    "name": "Just Cause",
+    "manifests": [
+      "https://base44.app/api/apps/691a1a311ee3572b831e4c62/files/public/691a1a311ee3572b831e4c62/25b95b9c2_JustCause.zip"
+    ]
+  },
+  {
+    "appid": 8190,
+    "name": "Just Cause 2",
+    "manifests": [
+      "https://base44.app/api/apps/691a1a311ee3572b831e4c62/files/public/691a1a311ee3572b831e4c62/de760cb74_JustCause2.zip"
+    ]
+  },
+  {
+    "appid": 225540,
+    "name": "Just Cause 3",
+    "manifests": [
+      "https://base44.app/api/apps/691a1a311ee3572b831e4c62/files/public/691a1a311ee3572b831e4c62/83cc2dfaf_JustCause3.zip"
+    ]
+  },
+  {
+    "appid": 517630,
+    "name": "Just Cause 4",
+    "manifests": [
+      "https://base44.app/api/apps/691a1a311ee3572b831e4c62/files/public/691a1a311ee3572b831e4c62/e0264d5c1_JustCause4.zip"
+    ]
+  },
+  {
+    "appid": 508440,
+    "name": "Totally Accurate Battle Simulator",
+    "manifests": [
+      "https://base44.app/api/apps/691a1a311ee3572b831e4c62/files/public/691a1a311ee3572b831e4c62/2425feb14_TotallyAccurateBattleSimulator.zip"
+    ]
+  },
+  {
+    "appid": 236430,
+    "name": "DARK SOULS™ II",
+    "manifests": [
+      "https://base44.app/api/apps/691a1a311ee3572b831e4c62/files/public/691a1a311ee3572b831e4c62/830072918_236430.zip"
+    ]
   }
 ]
