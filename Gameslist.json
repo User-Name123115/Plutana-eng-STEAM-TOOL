@@ -11,17 +11,16 @@
     "name": "Contraband Police",
     "manifests": [
       "https://raw.githubusercontent.com/User-Name123115/Plutana-eng-STEAM-TOOL/refs/heads/main/manifests/Contraband Police/756800.lua",
-      "https://raw.githubusercontent.com/User-Name123115/Plutana-eng-STEAM-TOOL/refs/heads/main/manifests/Contraband Police/756801_1530243543208287765.manifest",
-      "https://raw.githubusercontent.com/User-Name123115/Plutana-eng-STEAM-TOOL/refs/heads/main/manifests/Contraband Police/756801_5371529550732960251.manifest"
+      "https://github.com/User-Name123115/Plutana-eng-STEAM-TOOL/raw/refs/heads/main/manifests/Contraband Police/756801_1530243543208287765.manifest",
+      "https://github.com/User-Name123115/Plutana-eng-STEAM-TOOL/raw/refs/heads/main/manifests/Contraband Police/756801_5371529550732960251.manifest"
     ]
   },
   {
-    "appid": 756800,
-    "name": "Contraband Police",
+    "appid": 1167450,
+    "name": "DAEMON X MACHINA",
     "manifests": [
-      "https://raw.githubusercontent.com/User-Name123115/Plutana-eng-STEAM-TOOL/refs/heads/main/manifests/Contraband Police/756800.lua",
-      "https://raw.githubusercontent.com/User-Name123115/Plutana-eng-STEAM-TOOL/refs/heads/main/manifests/Contraband Police/756801_1530243543208287765.manifest",
-      "https://raw.githubusercontent.com/User-Name123115/Plutana-eng-STEAM-TOOL/refs/heads/main/manifests/Contraband Police/756801_5371529550732960251.manifest"
+      "https://raw.githubusercontent.com/User-Name123115/Plutana-eng-STEAM-TOOL/refs/heads/main/manifests/DAEMON_X_MACHINA/1167450.lua",
+      "https://github.com/User-Name123115/Plutana-eng-STEAM-TOOL/raw/refs/heads/main/manifests/DAEMON_X_MACHINA/1167451_5557761116931964144.manifest"
     ]
   }
 ]
