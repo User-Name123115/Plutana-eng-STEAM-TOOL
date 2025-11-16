@@ -1,14 +1,18 @@
 [
   {
-    "appid": 570,
-    "name": "Dota 2"
+    "appid": 3314790,
+    "name": "CloverPit",
+    "manifests": [
+      "manifests/570.manifest",
+      "manifests/570_additional.json"
+    ]
   },
   {
     "appid": 730,
-    "name": "Counter-Strike: Global Offensive"
-  },
-  {
-    "appid": 440,
-    "name": "Team Fortress 2"
+    "name": "Counter-Strike: Global Offensive",
+    "manifests": [
+      "manifests/730.manifest",
+      "manifests/730_additional.json"
+    ]
   }
 ]
